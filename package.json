@@ -1,0 +1,16 @@
+{
+  "name": "places_api",
+  "version": "1.0.0",
+  "description": "REST API of places",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "kshitija",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.7",
+    "multer": "^1.4.2"
+  }
+}
